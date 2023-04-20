@@ -492,7 +492,7 @@ h6 {
 #hero p {
   text-align: center;
 }
-#hero .btn-about, #project.btn-about{
+#hero .btn-about, #project.btn-about, #resume.btn-about{
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   font-weight: 600;
@@ -512,6 +512,9 @@ h6 {
   background: #3dc8b7;
 }
 #project:hover {
+  background: #3dc8b7;
+}
+#resume:hover {
   background: #3dc8b7;
 }
 
